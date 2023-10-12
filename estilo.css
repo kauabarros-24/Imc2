@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 30%;
+    padding: 10px;  
+    border: 1px solid #ccc;
+    border-radius: 5px;
+ 
+}
+
+#calcular,
+#limpar {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 10px;
+}
+
+
+.classificacao {
+    font-weight: bold;
+}
+
+
